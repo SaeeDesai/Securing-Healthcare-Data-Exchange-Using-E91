@@ -1,0 +1,33 @@
+Patient Information:
+- Name: John Doe
+- Age: 45
+- Gender: Male
+- Date of Birth: January 15, 1979
+- Blood Type: A+
+
+Medical History:
+- Allergies: None
+- Medications: 
+  - Aspirin: 81mg daily
+  - Lisinopril: 10mg daily
+- Past Surgeries: None
+- Chronic Conditions: 
+  - Hypertension
+  - Hyperlipidemia
+  - Type 2 Diabetes
+
+Vital Signs:
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 75 bpm
+- Respiratory Rate: 16 bpm
+- Temperature: 98.6°F
+
+Assessment:
+- Patient presents with stable vital signs and well-controlled chronic conditions.
+- No acute complaints reported.
+
+Plan:
+- Continue current medications and monitor blood pressure, blood glucose, and lipid levels regularly.
+- Encourage lifestyle modifications, including regular exercise and a healthy diet.
+- Follow-up appointment scheduled in 3 months for routine check-up.
+
